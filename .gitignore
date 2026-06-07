@@ -1,0 +1,12 @@
+
+
+# Entorno virtual (archivos sueltos)
+Include/
+Lib/
+Scripts/
+venv/
+pyvenv.cfg
+
+# Temporales de Python
+__pycache__/
+*.pyc
