@@ -10,3 +10,4 @@ pyvenv.cfg
 # Temporales de Python
 __pycache__/
 *.pyc
+
